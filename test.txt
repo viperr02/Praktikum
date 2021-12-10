@@ -2,4 +2,5 @@ new file test
 
 hello edin
 
-tseta fdads fas 
+tseta fdads fas
+GIT COMMIT EDIN 01 
